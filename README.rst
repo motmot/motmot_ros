@@ -17,7 +17,7 @@ Ubuntu Lucid (10.04).
  0. `Install motmot <http://code.astraw.com/projects/motmot/download.html#id4>`_.
 
  1. `Install ros-cturtle-base <http://www.ros.org/wiki/cturtle/Installation/Ubuntu>`_.
- (This stack depends on other required stacks, such as image_pipeline.)
+    (This stack depends on other required stacks, such as image_pipeline.)
 
  2. Get the rosinstall tool::
 
