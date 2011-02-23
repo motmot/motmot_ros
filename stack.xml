@@ -1,0 +1,12 @@
+<stack>
+  <description brief="motmot_ros stack">
+  
+    motmot_ros let you use the Motmot Camera Utility Suite within the
+    Robot Operating System (ROS). Specifically, it is a ROS stack
+    incorporating several ROS packages.
+
+  </description>
+  <author>Andrew D. Straw</author>
+  <review status="unreviewed" notes=""/>
+  <url>https://github.com/motmot/motmot_ros</url>
+</stack>
