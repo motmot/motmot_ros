@@ -1,0 +1,20 @@
+git:
+  ubuntu: git-core
+  debian: git-core
+  fedora: git
+  macports: git-core
+  gentoo: dev-vcs/git
+  freebsd: git
+libcamiface:
+  ubuntu: libcamiface-dev
+opengl:
+  ubuntu: libgl1-mesa-dev libglu1-mesa-dev
+  debian: libgl1-mesa-dev libglu1-mesa-dev
+  fedora: mesa-libGL-devel mesa-libGLU-devel
+  rhel: mesa-libGL-devel mesa-libGLU-devel
+  macports: mesa
+  arch: mesa
+  gentoo: media-libs/mesa
+  freebsd: mesagl-mangled
+glew:
+  ubuntu: libglew1.5-dev

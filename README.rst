@@ -5,7 +5,10 @@ motmot_ros
 motmot_ros let you use the `motmot camera utility suite
 <http://code.astraw.com/projects/motmot/>`_ within `Robot Operating
 System (ROS) <http://www.ros.org>`_. Specifically, it is a ROS stack
-incorporating several ROS packages.
+incorporating several ROS packages:
+
+ * `camiface_ros <http://github.com/motmot/camiface_ros/>`_ - Capture image
+   streams using libcamiface for the Robot Operating System (ROS)
 
 Installation
 ************
